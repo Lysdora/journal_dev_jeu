@@ -28,8 +28,11 @@ J'ai choisi Godot comme moteur de jeu pour plusieurs raisons :
 ## Structure du journal
 
 Ce journal sera organisé en entrées chronologiques, chacune détaillant un aspect spécifique du développement :
-- [Journal 1](journal-1.md) - Système d'items et collectibles
-- [Système d'inventaire dans Godot Engine 4.x](inventory-guide.md) - Amelioration des items et iventaire
+## Guides techniques
+- [Système d'inventaire dans Godot](guides/inventory-guide.md)
+
+## Journal
+- [Journal 1](journal-1.md) - Système d'items dans Godot
 - Journal 2 (à venir) - Système de combat
 - Journal 3 (à venir) - Création de donjons
 
