@@ -1,1 +1,16 @@
+assets/Capture d’écran 2025-03-17 132944.png
+---
+---
 
+@import "jekyll-theme-cayman";
+
+.page-header {
+  background-image: url('assets/Capture d’écran 2025-03-17 132944.png');
+  background-size: cover;
+  background-position: center;
+}
+
+/* Pour que le texte reste lisible sur l'image */
+.project-name, .project-tagline {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
