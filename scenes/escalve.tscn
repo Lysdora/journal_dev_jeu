@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3 uid="uid://rlqoa0vflvfv"]
+
+[ext_resource type="Texture2D" uid="uid://888hfur7wit0" path="res://assets/characters/Caveman2/SeparateAnim/Dead.png" id="1_u1sn7"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_u1sn7"]
+size = Vector2(16, 12)
+
+[node name="Escalve" type="StaticBody2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_u1sn7")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, 1)
+shape = SubResource("RectangleShape2D_u1sn7")
