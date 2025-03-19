@@ -30,7 +30,7 @@ J'ai choisi Godot comme moteur de jeu pour plusieurs raisons :
 Ce journal sera organisé en entrées chronologiques, chacune détaillant un aspect spécifique du développement :
 ## Guides techniques
 - [Système d'inventaire dans Godot](guides/inventory-guide.md)
-- [Mémo GitHub et Markdown](guides/inventory-guide.md)
+- [Mémo GitHub et Markdown](guides/memo-github-markdown.md)
 
 ## Journal
 - [Journal 1](journal-1.md) - Système d'items dans Godot
